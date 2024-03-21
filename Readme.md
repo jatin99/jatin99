@@ -28,6 +28,9 @@
   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -49,15 +52,15 @@
 
 -Implemented thorough manual testing strategies for the application, ensuring
 seamless user experience and functionality across various devices which gave
-20% improvement in overall software stability and performance
+<b>20% improvement in overall software stability and performance</b>
 
 -Guided and trained 5 Junior QA team members on test automation best practices,
-resulting in a 40% decrease in test execution time and a 25% increase in test
-coverage 
+resulting in a  <b>40% decrease in test execution time and a 25% increase in test
+coverage </b>
 
 -Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a 40% reduction in manual testing time and a 25% increase
-in test coverage
+efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
+in test coverage</b>
 
 
 ## 💻 Framework WalkThrough
