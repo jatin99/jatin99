@@ -68,6 +68,8 @@ in test coverage</b>
 
 ## 💻 My Projects 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=Linux-Zero-to-Hero)](https://github.com/jatin99/Linux-Zero-to-Hero)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jatin99&repo=AutomationFramework)](https://github.com/jatin99/AutomationFramework)
 
 [Automated Regression Testing Framework Java](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
